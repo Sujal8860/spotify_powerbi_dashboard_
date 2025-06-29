@@ -51,4 +51,5 @@ This project analyzes Spotify streaming history to uncover patterns in music con
 
 ## 📞 Contact
 Let's connect ✉️- priyambarman28@gmail.com
-linkdin- https://www.linkedin.com/in/sujalburman
+
+linkdin-https://www.linkedin.com/in/sujalburman
