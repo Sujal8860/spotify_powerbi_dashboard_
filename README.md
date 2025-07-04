@@ -40,10 +40,6 @@ This project analyzes Spotify streaming history to uncover patterns in music con
 
 ---
 
-## 🎥 Voiceover Walkthrough
-
-> 📽️ 
-
 ## 📁 Dataset
 - Source: Spotify Streaming History (149,000+ records)
 - Columns: `track_name`, `artist_name`, `album_name`, `ms_played`, `timestamp`, `platform`, `skipped`, etc.
